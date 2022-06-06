@@ -32,4 +32,4 @@ In my free time I am currently working on making more information on climbing in
 ### Contact <a name="Contact">
 I hope I was able to give a very brief overview of who I am and I would love to hear from you:
   
-  email: dsenti@ethz.ch
+  email: dsenti[at]ethz.ch

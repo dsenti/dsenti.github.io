@@ -1,5 +1,3 @@
-# Dominik Senti
-
 <img src="facebookpp.jpg" alt="" width="300"/>
 
 ### Table of Contents:
@@ -10,7 +8,7 @@
 
 ### Who I am <a name="WIA" />
 
-My name is Dominik Senti and I am a computer science student at [ETHZ](https://ethz.ch) (Eidgenössische Technische Hochschule Zürich). My mission in life is to leave the world a better place than I found it and I am especially fascinated by the potential of using cutting edge technology to tackle some of the biggest challenges humanity is facing such as climate change, biodiversity loss and food security. Regenerative agriculture and creating symbiotic ecosystems which involve humans as a central component is where I see some of the most promising innovations happening in the future. I have therefore decided to focus my time and energy onto this intersection of the millenia-old tradition of food production and the comparatively very young field of Information Technology (Also see: [Ongoing Projects](#OP))
+My name is Dominik Senti and I am a swiss computer science student at [ETHZ](https://ethz.ch) (Eidgenössische Technische Hochschule Zürich). My goal in life is to leave the world a better place than I found it and I am especially fascinated by the potential of using cutting edge technology to tackle some of the biggest challenges humanity is facing such as climate change, biodiversity loss and food security. Regenerative agriculture and creating symbiotic ecosystems which involve humans as a central component is where I see some of the most promising innovations happening in the future. I have therefore decided to focus my time and energy into this intersection of the millenia-old tradition of food production and the comparatively very young field of Information Technology (Also see: [Ongoing Projects](#OP))
 
 On a more personal level I enjoy challenges which push me out of my comfort zone and force me to adapt and evolve as a person. I find these in a multitude of ways:
 
@@ -18,7 +16,7 @@ I love travelling and have spent more time abroad than in Switzerland, my home c
 
 I enjoy parttaking in a variety of outdoor sports such as rock climbing, snowboarding (especially touring) and surfing. These have in common that you spend time in nature while having to pay respect to the forces at play in this environment. These will always be stronger than any human and nevertheless it is possible to harness the power of the natural world and use it to one's own advantage, as long as one is very mindful. I see strong parallels between these entertaning past-times and my mission of demonstrating that with enough consideration of the natural patterns we can live in a symbiotic relationship with our environment without having to resort to extreme measures.
 
-Creativity also plays a big part in my life. I play the guitar and like to improvise or compose songs, but also love to immerse myself in practicing and perfecting my rendition of existing ones. I enjoy photography and filmmaking and have a [YouTube channel](https://www.youtube.com/dominiksenti). 
+Creativity also plays a big part in my life. I play the guitar and love to improvise or compose songs, but also appreciate immersing myself in practicing and perfecting my rendition of existing ones. I enjoy photography and filmmaking and have a [YouTube channel](https://www.youtube.com/dominiksenti). 
 
 ### Ongoing Projects <a name="OP" />
 For past projects please refer to [my CV](https://github.com/dsenti/dsenti.github.io/blob/main/CV_Dominik_Senti.pdf).

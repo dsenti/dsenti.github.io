@@ -1,5 +1,3 @@
-<img src="facebookpp.jpg" alt="" width="300"/>
-
 ### Table of Contents:
 1. [Who I am](#WIA)
 2. [Ongoing Projects](#OP)
